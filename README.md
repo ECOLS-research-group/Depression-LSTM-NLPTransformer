@@ -30,9 +30,6 @@ This repository contains code and resources for detecting depression in social m
 ## Contributing
 Feel free to fork the project, make improvements, and submit pull requests.
 
-## License
-This project is licensed under the MIT License.
-
 ## Programmer
 
 - Anuraag Raj
