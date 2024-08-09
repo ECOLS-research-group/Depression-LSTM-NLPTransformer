@@ -1,4 +1,4 @@
-# Depression Detection Using LSTM and NLP Transformers
+# Uncovering Depression with LSTM and NLP Transformers in Social Media Posts
 
 ## Overview
 This repository contains code and resources for detecting depression in social media posts using LSTM and NLP transformers like BERT. The project aims to leverage deep learning techniques for mental health monitoring by analyzing text data from social media.
