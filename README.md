@@ -4,7 +4,7 @@ Copyright (c) 2024, ECOLS - All rights reserved.
 
 ## Version 1.0
 
-The student **Anuraag Raj** wrote the code for **LSTM vs. NLP Transformers in Analyzing Depression from Text Data**. The code was written in **Python**.
+The student **Anuraag Raj** wrote the code for **LSTM vs. NLP Transformers in Analyzing Depression from Text Data**, with **Zain Ali** contributing by writing the code for **BERT** and providing **encoded vectors**. The code was written in **Python**.
 
 **Paper**: *Uncovering Depression with LSTM and NLP Transformers in Social Media Posts*. Paper presented at the **5th International Conference on Data Science and Applications (ICDSA 2024)**.  
 **Authors**: Anuraag Raj, Zain Ali, Shonal Chaudhary, and Anuraganand Sharma.
